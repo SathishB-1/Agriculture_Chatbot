@@ -1,0 +1,8 @@
+Flask
+Flask_SQLAlchemy
+PyMySQL
+markdown2
+openai
+python-dotenv
+mysql-connector-python
+Flask-CORS
